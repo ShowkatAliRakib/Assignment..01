@@ -1,0 +1,84 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%auto;
+}
+
+.heading {
+    color: rgb(7, 236, 19);
+    font-size: 50px;
+}
+
+#border-left {
+    border-left: 3px solid;
+    border-image: linear-gradient(red, tomato);
+    border-image-slice: 1;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(red, tomato);
+}
+
+.image-right {
+    width: 400px;
+    ;
+}
+
+.helf-width {
+    width: 50%;
+    padding: 20px;
+}
+
+.prent {
+    display: flex;
+    margin: 100px 10px 10px 100px;
+    justify-content: space-between;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.misson {
+    width: 250px;
+    margin: 40px;
+    padding: 10px;
+    background-color: rgb(196, 88, 142);
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 15px gray;
+}
+
+.misson img {
+    width: 100%;
+}
+
+#bg-color-vision {
+    background-color: rgb(187, 189, 75);
+}
+
+#bg-color-goal {
+    background-color: rgb(59, 167, 107);
+}
+
+.img-left {
+    width: 400px;
+}
+
+#imag-left02 {
+    width: 300px;
+    height: 500px;
+}
+
+#footer {
+    background-color: rgb(40, 72, 161);
+    padding: 20px;
+}
+
+.font-color {
+    color: rgb(209, 27, 233);
+}
